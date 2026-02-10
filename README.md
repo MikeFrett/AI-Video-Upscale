@@ -4,7 +4,7 @@ An experimental Python GUI application for AI-powered video upscaling using Real
 
 🚀 **Run**: `python AI_Video_Upscaler2.py` or `python3 AI_Video_Upscaler2.py`
 
-⚠️ **Notes**: Slow processing, cannot cancel, performance varies by hardware
+⚠️ **Notes**: Slow processing, cannot cancel, performance varies by hardware. On first run, wait for the needed model to download.
 
 🧠 **Background**: Experimental AI-assisted video upscaling project
 
